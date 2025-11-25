@@ -1,0 +1,33 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.userprefs
+*.unityproj
+*.booproj
+
+# Auto-generated files
+ExportedObj/
+.consulo/
+.vscode/
+
+# Unity settings
+*.unitypackage
+
+# Crash and temporary files
+*.stackdump
+sysinfo.txt
+
+# Ignore addressable assets build
+AddressablesBuildData/
